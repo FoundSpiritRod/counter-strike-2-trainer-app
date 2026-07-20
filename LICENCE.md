@@ -4,8 +4,8 @@ CS2 trainer with aimbot, ESP wallhack, triggerbot, no recoil, skin changer, and 
 
 ---
 
+<img width="1280" height="720" alt="maxresdefault (6)" src="https://github.com/user-attachments/assets/8683682b-2ee7-424b-94e4-c2c0a0170c5d" />
 
-<img width="1280" height="720" alt="08cf18bd-76f1-4210-93ab-f1e402fde8d7" src="https://github.com/user-attachments/assets/ceb9ec24-6f1f-4a62-83b4-0205d2b67114" />
 
 
 
